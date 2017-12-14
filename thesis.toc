@@ -1,0 +1,32 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}M\IeC {\d u}c ti\IeC {\^e}u, gi\IeC {\'\ohorn }i h\IeC {\d a}n v\IeC {\`a} c\IeC {\'a}c giai \IeC {\dj }o\IeC {\d a}n c\IeC {\h u}a \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}M\IeC {\d u}c ti\IeC {\^e}u v\IeC {\`a} gi\IeC {\'\ohorn }i h\IeC {\d a}n c\IeC {\h u}a \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{8}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Giai \IeC {\dj }o\IeC {\d a}n Th\IeC {\d \uhorn }c T\IeC {\d \acircumflex }p T\IeC {\'\ocircumflex }t Nghi\IeC {\d \ecircumflex }p}{8}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Giai \IeC {\dj }o\IeC {\d a}n Lu\IeC {\d \acircumflex }n V\IeC {\u a}n T\IeC {\'\ocircumflex }t Nghi\IeC {\d \ecircumflex }p}{8}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Ph\IeC {\d a}m vi \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{9}{section.1.3}
+\contentsline {section}{\numberline {1.4}C\IeC {\'\acircumflex }u tr\IeC {\'u}c b\IeC {\'a}o c\IeC {\'a}o}{9}{section.1.4}
+\contentsline {chapter}{\numberline {2}Ph\IeC {\^a}n t\IeC {\'\i }ch v\IeC {\'\acircumflex }n \IeC {\dj }\IeC {\`\ecircumflex }}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}V\IeC {\'\i } d\IeC {\d u} minh h\IeC {\d o}a v\IeC {\`a} ph\IeC {\^a}n t\IeC {\'\i }ch}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Gi\IeC {\h a}i ph\IeC {\'a}p \IeC {\dj }\IeC {\`\ecircumflex } ngh\IeC {\d i}}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}H\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng t\IeC {\uhorn } v\IeC {\'\acircumflex }n}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}C\IeC {\ohorn } ch\IeC {\'\ecircumflex } ch\IeC {\d o}n m\IeC {\^o}n h\IeC {\d o}c ph\IeC {\`u} h\IeC {\d \ohorn }p v\IeC {\'\ohorn }i sinh vi\IeC {\^e}n}{11}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Ki\IeC {\'\ecircumflex }n tr\IeC {\'u}c h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{12}{section.2.3}
+\contentsline {chapter}{\numberline {3}Ki\IeC {\'\ecircumflex }n th\IeC {\'\uhorn }c n\IeC {\`\ecircumflex }n t\IeC {\h a}ng}{13}{chapter.3}
+\contentsline {part}{I\hspace {1em}Ki\IeC {\'\ecircumflex }n th\IeC {\'\uhorn }c n\IeC {\`\ecircumflex }n t\IeC {\h a}ng}{14}{part.1}
+\contentsline {section}{\numberline {3.1}L\IeC {\d o}c d\IeC {\d \uhorn }a tr\IeC {\^e}n n\IeC {\d \ocircumflex }i dung (CBF: Content-based Filtering)}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\IeC {\UHORN }u \IeC {\dj }i\IeC {\h \ecircumflex }m v\IeC {\`a} Nh\IeC {\uhorn }\IeC {\d \ohorn }c \IeC {\dj }i\IeC {\h \ecircumflex }m}{15}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}C\IeC {\'\ocircumflex }t l\IeC {\~o}i s\IeC {\h \uhorn } d\IeC {\d u}ng trong L\IeC {\d o}c d\IeC {\d \uhorn }a tr\IeC {\^e}n n\IeC {\d \ocircumflex }i dung}{15}{subsection.3.1.2}
+\contentsline {subsubsection}{S\IeC {\h \uhorn } d\IeC {\d u}ng c\IeC {\ohorn } ch\IeC {\'\ecircumflex } Term Frequency (TF)and Inverse Document Frequency(IDF)}{15}{section*.8}
+\contentsline {subsubsection}{S\IeC {\h \uhorn } d\IeC {\d u}ng model Vector Space Model}{16}{section*.15}
+\contentsline {subsubsection}{L\IeC {\d o}c c\IeC {\d \ocircumflex }ng t\IeC {\'a}c (CF: Collaborative Filtering).}{17}{section*.17}
+\contentsline {subsection}{\numberline {3.1.3}\IeC {\UHORN }u \IeC {\dj }i\IeC {\h \ecircumflex }m v\IeC {\`a} nh\IeC {\uhorn }\IeC {\d \ohorn }c \IeC {\dj }i\IeC {\h \ecircumflex }m}{17}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}C\IeC {\'a}c ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p}{18}{subsection.3.1.4}
+\contentsline {subsubsection}{Matrix Factorization (MF) [6]}{18}{section*.18}
+\contentsline {subsubsection}{Factorization Machines [8]}{19}{section*.20}
+\contentsline {part}{II\hspace {1em}C\IeC {\^o}ng ngh\IeC {\d \ecircumflex } s\IeC {\h \uhorn } d\IeC {\d u}ng}{21}{part.2}
+\contentsline {chapter}{\numberline {4}K\IeC {\'\ECIRCUMFLEX }T QU\IeC {\h A}}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }\IeC {\d a}t \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c trong giai \IeC {\dj }o\IeC {\d a}n Th\IeC {\d \uhorn }c T\IeC {\d \acircumflex }p T\IeC {\'\ocircumflex }t Nghi\IeC {\d \ecircumflex }p}{23}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}T\IeC {\'o}m t\IeC {\'\abreve }t k\IeC {\'\ecircumflex }t qu\IeC {\h a}}{23}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}K\IeC {\'\ecircumflex } ho\IeC {\d a}ch cho giai \IeC {\dj }o\IeC {\d a}n Lu\IeC {\d \acircumflex }n V\IeC {\u a}n T\IeC {\'\ocircumflex }t Nghi\IeC {\d \ecircumflex }p}{23}{subsection.4.1.2}
